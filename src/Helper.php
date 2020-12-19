@@ -1,6 +1,6 @@
 <?php
 
-namespace Kraken7\helper;
+namespace helper;
 
 class Helper
 {
