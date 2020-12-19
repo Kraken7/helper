@@ -1,0 +1,24 @@
+{
+  "name": "kraken7/helper",
+  "type": "library",
+  "description": "Test package",
+  "keywords": ["helper"],
+  "homepage": "https://github.com/Kraken7/helper",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kraken7",
+      "email": "",
+      "homepage": "",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "kraken7": "src"
+    }
+  }
+}
