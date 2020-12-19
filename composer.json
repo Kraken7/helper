@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-0": {
-      "kraken7": "src"
+      "Kraken7\\helper\\": "src/"
     }
   }
 }
